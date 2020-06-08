@@ -1,0 +1,27 @@
+.signIn{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px auto;
+    // border: 1px solid;
+    width: 500px;
+    background-color: white;
+    padding: 50px auto;
+    box-shadow: 3px 3px 9px #888888;
+
+}
+
+@media screen and (max-width: 400px) {
+    .signIn{
+        display : flex;
+        justify-content: center;
+        align-items: center;
+        margin: 30px auto;
+        // border: 1px solid;
+        width: 100%;
+        background-color: white;
+        padding: 50px auto;
+        box-shadow: 3px 3px 9px #888888;
+    
+    }
+}

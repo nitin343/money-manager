@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.squ2{
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: left;
+    font-size: 30px;
+    font-weight: medium;
+    font-family: 'Roboto', sans-serif;
+    color: #343a40;
+    margin-top: 50px;
+}
+
+.squ1{
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: left;
+    font-size: 25px;
+    font-weight: light;
+    font-family: 'Roboto', sans-serif;
+    color: #343a40;
+    margin-top: 50px;
+}
+
+.btn{
+    width: 100px;
+    
+}
